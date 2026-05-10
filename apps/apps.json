@@ -1,82 +1,102 @@
 [
   {
     "id": "CircleToSearch",
-    "name": "CircleToSearch"
+    "name": "CircleToSearch",
+    "partition": "product_app"
   },
   {
     "id": "GooglePackageInstaller",
-    "name": "GooglePackageInstaller"
+    "name": "GooglePackageInstaller",
+    "partition": "system_priv"
   },
   {
     "id": "MiuiMacro",
-    "name": "MiuiMacro"
+    "name": "MiuiMacro",
+    "partition": "product_app"
   },
   {
     "id": "LatinImeGoogle",
-    "name": "LatinImeGoogle"
+    "name": "LatinImeGoogle",
+    "partition": "product_app"
   },
   {
     "id": "MIUIFrequentPhrase",
-    "name": "MIUIFrequentPhrase"
+    "name": "MIUIFrequentPhrase",
+    "partition": "product_app"
   },
   {
     "id": "ThemesStub",
-    "name": "ThemesStub"
+    "name": "ThemesStub",
+    "partition": "product_app"
   },
   {
     "id": "Joyose",
-    "name": "Joyose"
+    "name": "Joyose",
+    "partition": "product_app"
   },
   {
     "id": "MIUIFileExplorerGlobal",
-    "name": "MIUIFileExplorerGlobal"
+    "name": "MIUIFileExplorerGlobal",
+    "partition": "product_app"
   },
   {
     "id": "MiMediaEditor",
-    "name": "MiMediaEditor"
+    "name": "MiMediaEditor",
+    "partition": "product_app"
   },
   {
     "id": "MiuiHome",
-    "name": "MiuiHome Kashi"
+    "name": "MiuiHome Kashi",
+    "partition": "product_priv"
   },
   {
     "id": "MiuiHomeBG",
-    "name": "MiuiHome BG"
+    "name": "MiuiHome BG",
+    "partition": "product_priv"
   },
   {
     "id": "MiuiHomePad",
-    "name": "MiuiHome Pad"
+    "name": "MiuiHome Pad",
+    "partition": "product_priv"
   },
   {
     "id": "AppVault",
-    "name": "AppVault"
+    "name": "AppVault",
+    "partition": "product_priv"
   },
   {
     "id": "MIUISecurityCenterGlobal",
-    "name": "MIUISecurityCenterGlobal"
+    "name": "MIUISecurityCenterGlobal",
+    "partition": "product_priv"
   },
   {
     "id": "MIUIThemeManagerGlobal",
-    "name": "MIUIThemeManagerGlobal"
+    "name": "MIUIThemeManagerGlobal",
+    "partition": "product_priv"
   },
   {
     "id": "MIUISystemUIPlugin",
-    "name": "MIUISystemUIPlugin HyperOS"
+    "name": "MIUISystemUIPlugin HyperOS",
+    "partition": "product_app"
   },
   {
     "id": "MIUISystemUIPluginCos",
-    "name": "MIUISystemUIPlugin ColorOS"
+    "name": "MIUISystemUIPlugin ColorOS",
+    "partition": "product_app"
   },
   {
     "id": "Messages_arm64_xxxhdpi",
-    "name": "Messages_arm64_xxxhdpi"
+    "name": "Messages_arm64_xxxhdpi",
+    "partition": "product_priv"
   },
   {
     "id": "Safetycore",
-    "name": "Safetycore"
+    "name": "Safetycore",
+    "partition": "product_app"
   },
   {
     "id": "XiaomiEUExt",
-    "name": "XiaomiEUExt"
+    "name": "XiaomiEUExt",
+    "partition": "product_priv"
   }
 ]
