@@ -1,0 +1,82 @@
+[
+  {
+    "id": "CircleToSearch",
+    "name": "CircleToSearch"
+  },
+  {
+    "id": "GooglePackageInstaller",
+    "name": "GooglePackageInstaller"
+  },
+  {
+    "id": "MiuiMacro",
+    "name": "MiuiMacro"
+  },
+  {
+    "id": "LatinImeGoogle",
+    "name": "LatinImeGoogle"
+  },
+  {
+    "id": "MIUIFrequentPhrase",
+    "name": "MIUIFrequentPhrase"
+  },
+  {
+    "id": "ThemesStub",
+    "name": "ThemesStub"
+  },
+  {
+    "id": "Joyose",
+    "name": "Joyose"
+  },
+  {
+    "id": "MIUIFileExplorerGlobal",
+    "name": "MIUIFileExplorerGlobal"
+  },
+  {
+    "id": "MiMediaEditor",
+    "name": "MiMediaEditor"
+  },
+  {
+    "id": "MiuiHome",
+    "name": "MiuiHome Kashi"
+  },
+  {
+    "id": "MiuiHomeBG",
+    "name": "MiuiHome BG"
+  },
+  {
+    "id": "MiuiHomePad",
+    "name": "MiuiHome Pad"
+  },
+  {
+    "id": "AppVault",
+    "name": "AppVault"
+  },
+  {
+    "id": "MIUISecurityCenterGlobal",
+    "name": "MIUISecurityCenterGlobal"
+  },
+  {
+    "id": "MIUIThemeManagerGlobal",
+    "name": "MIUIThemeManagerGlobal"
+  },
+  {
+    "id": "MIUISystemUIPlugin",
+    "name": "MIUISystemUIPlugin HyperOS"
+  },
+  {
+    "id": "MIUISystemUIPluginCos",
+    "name": "MIUISystemUIPlugin ColorOS"
+  },
+  {
+    "id": "Messages_arm64_xxxhdpi",
+    "name": "Messages_arm64_xxxhdpi"
+  },
+  {
+    "id": "Safetycore",
+    "name": "Safetycore"
+  },
+  {
+    "id": "XiaomiEUExt",
+    "name": "XiaomiEUExt"
+  }
+]
