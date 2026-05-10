@@ -33,7 +33,16 @@
     "id": "ThemesStub",
     "name": "ThemesStub",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/ThemesStub.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/ThemesStub.7z",
+    "dependencies": [
+      "ThemePicker"
+    ]
+  },
+  {
+    "id": "ThemePicker",
+    "partition": "system_ext_priv",
+    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/ThemePicker.7z",
+    "hidden": true
   },
   {
     "id": "Joyose",
@@ -57,13 +66,19 @@
     "id": "MiuiHome",
     "name": "MiuiHome Kashi",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MiuiHome.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MiuiHome.7z",
+    "dependencies": [
+      "XiaomiEUExt"
+    ]
   },
   {
     "id": "MiuiHomeBG",
     "name": "MiuiHome BG",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MiuiHomeBG.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MiuiHomeBG.7z",
+    "dependencies": [
+      "XiaomiEUExt"
+    ]
   },
   {
     "id": "MiuiHomePad",
