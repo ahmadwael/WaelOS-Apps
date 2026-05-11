@@ -40,6 +40,7 @@
   },
   {
     "id": "ThemePicker",
+    "name": "ThemePicker",
     "partition": "system_ext_priv",
     "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/ThemePicker.7z",
     "hidden": true
