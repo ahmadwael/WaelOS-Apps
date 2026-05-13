@@ -1,1 +1,1 @@
-# WaelOS-Apps
+# WaelOS-Hub
