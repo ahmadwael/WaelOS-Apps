@@ -3,37 +3,37 @@
     "id": "CircleToSearch",
     "name": "CircleToSearch",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/CircleToSearch.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/CircleToSearch.7z"
   },
   {
     "id": "GooglePackageInstaller",
     "name": "GooglePackageInstaller",
     "partition": "system_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/GooglePackageInstaller.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/GooglePackageInstaller.7z"
   },
   {
     "id": "MiuiMacro",
     "name": "MiuiMacro",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MiuiMacro.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiMacro.7z"
   },
   {
     "id": "LatinImeGoogle",
     "name": "LatinImeGoogle",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/LatinImeGoogle.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/LatinImeGoogle.7z"
   },
   {
     "id": "MIUIFrequentPhrase",
     "name": "MIUIFrequentPhrase",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MIUIFrequentPhrase.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUIFrequentPhrase.7z"
   },
   {
     "id": "ThemesStub",
     "name": "ThemesStub",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/ThemesStub.7z",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/ThemesStub.7z",
     "dependencies": [
       "ThemePicker"
     ]
@@ -42,32 +42,32 @@
     "id": "ThemePicker",
     "name": "ThemePicker",
     "partition": "system_ext_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/ThemePicker.7z",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/ThemePicker.7z",
     "hidden": true
   },
   {
     "id": "Joyose",
     "name": "Joyose",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/Joyose.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/Joyose.7z"
   },
   {
     "id": "MIUIFileExplorerGlobal",
     "name": "MIUIFileExplorerGlobal",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MIUIFileExplorerGlobal.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUIFileExplorerGlobal.7z"
   },
   {
     "id": "MiMediaEditor",
     "name": "MiMediaEditor",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MiMediaEditor.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiMediaEditor.7z"
   },
   {
     "id": "MiuiHome",
     "name": "MiuiHome Kashi",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MiuiHome.7z",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiHome.7z",
     "dependencies": [
       "XiaomiEUExt"
     ]
@@ -76,7 +76,7 @@
     "id": "MiuiHomeBG",
     "name": "MiuiHome BG",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MiuiHomeBG.7z",
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiHomeBG.7z",
     "dependencies": [
       "XiaomiEUExt"
     ]
@@ -85,54 +85,54 @@
     "id": "MiuiHomePad",
     "name": "MiuiHome Pad",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MiuiHomePad.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MiuiHomePad.7z"
   },
   {
     "id": "AppVault",
     "name": "AppVault",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/AppVault.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/AppVault.7z"
   },
   {
     "id": "MIUISecurityCenterGlobal",
     "name": "MIUISecurityCenterGlobal",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MIUISecurityCenterGlobal.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUISecurityCenterGlobal.7z"
   },
   {
     "id": "MIUIThemeManagerGlobal",
     "name": "MIUIThemeManagerGlobal",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MIUIThemeManagerGlobal.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUIThemeManagerGlobal.7z"
   },
   {
     "id": "MIUISystemUIPlugin",
     "name": "MIUISystemUIPlugin HyperOS",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MIUISystemUIPlugin.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUISystemUIPlugin.7z"
   },
   {
     "id": "MIUISystemUIPluginCos",
     "name": "MIUISystemUIPlugin ColorOS",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/MIUISystemUIPluginCos.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/MIUISystemUIPluginCos.7z"
   },
   {
     "id": "Messages_arm64_xxxhdpi",
     "name": "Messages_arm64_xxxhdpi",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/Messages_arm64_xxxhdpi.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/Messages_arm64_xxxhdpi.7z"
   },
   {
     "id": "Safetycore",
     "name": "Safetycore",
     "partition": "product_app",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/Safetycore.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/Safetycore.7z"
   },
   {
     "id": "XiaomiEUExt",
     "name": "XiaomiEUExt",
     "partition": "product_priv",
-    "url": "https://github.com/ahmadwael/WaelOS-Apps/releases/download/Waelappsv1/XiaomiEUExt.7z"
+    "url": "https://github.com/ahmadwael/WaelOS-Hub/releases/download/Waelappsv1/XiaomiEUExt.7z"
   }
 ]
